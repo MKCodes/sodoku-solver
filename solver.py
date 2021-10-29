@@ -10,6 +10,7 @@ board = [
     [0,4,9,2,0,6,0,0,7]
 ]
 
+#addasd
 def valid (board, num, pos):
 
     for i in range(9):
